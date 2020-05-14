@@ -27,6 +27,10 @@ game class
 initiate the entire game, using all classes above.
 
 
+
+
+
+
 Game process
 
 setting up the game
