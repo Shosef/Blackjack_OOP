@@ -48,7 +48,7 @@ showing results (with bet winning amount & total chips)
 asking for a replay
 
 
-# How to use the code
+## How to use the code
 
 1.Download the py file
 
