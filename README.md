@@ -30,11 +30,17 @@ initiate the entire game, using all classes above.
 Game process
 
 setting up the game
+
 asking for the player's bet before the hand is delt
+
 dealing a hand (and displaying it) then checks for blackjack
+
 asking for the player's move ( hit , stay , show rules)
+
 checking the dealer's hand (soft 17, blackjack)
+
 showing results (with bet winning amount & total chips)
+
 asking for a replay
 
 
