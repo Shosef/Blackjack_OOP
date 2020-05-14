@@ -31,7 +31,7 @@ initiate the entire game, using all classes above.
 
 
 
-Game process
+## Game process
 
 setting up the game
 
