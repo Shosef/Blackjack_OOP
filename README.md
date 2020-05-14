@@ -5,7 +5,7 @@ Blackjack game in Python - OOP exercise
 This is a platform to mimic a blackjack game between 2 players (human vs cpu).
 
 
-Classes: 
+## Classes: 
 
 deck class 
 deck related methods (shuffle, deal hand etc..)
