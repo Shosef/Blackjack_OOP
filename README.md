@@ -40,6 +40,6 @@ asking for a replay
 
 # How to use the code
 
-1.Download the py file \n
-2.Run the file \n
+1.Download the py file
+2.Run the file
 3.Enjoy!
